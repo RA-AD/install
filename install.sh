@@ -40,4 +40,4 @@ sudo apt-get install libreadline-dev -y libconfig-dev -y libssl-dev -y lua5.2 -y
 sudo apt-get install screen -y  
 sudo apt-get install libstdc++6 -y  
 sudo apt-get install lua-lgi -y  
-sudo apt-get install libnotify-dev -y
+sudo apt-get install libnotify-dev -y "*"
