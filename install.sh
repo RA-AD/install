@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 echo -e "\n\nThis Script is written by: RAAD https://t.me/Ra_m9\n\n"
-install(){
 sudo apt-get update 
 sudo apt-get upgrade; 
 sudo apt-get install tmux;
@@ -41,7 +40,6 @@ sudo apt-get install screen -y ;
 sudo apt-get install libstdc++6 -y ; 
 sudo apt-get install lua-lgi -y ; 
 sudo apt-get install libnotify-dev -y;
-}
 echo -e "\n\nThe installation of offices has finished\nScript By: Dev. Raad => https://t.me/Ra_m9"
 
 
